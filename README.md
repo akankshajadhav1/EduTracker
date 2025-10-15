@@ -46,7 +46,7 @@ CF_API_SECRET=your_codeforces_api_secret
 -> Replace placeholder values with actual credentials.
 ->Ensure this file is not committed to version control by including .env in your .gitignore.
 
-💬 
+
 # Start the backend
 cd backend
 npm run dev
